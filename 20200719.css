@@ -1,0 +1,15 @@
+#button_1{
+    display: block;
+    margin: 20px auto;
+
+    width: 100px;
+    padding: 10px 10px;
+    background-color: #8f7a66;
+
+    font-family: Arial;
+    color: white;
+
+    border-radius: 10px;
+
+    text-decoration: none;
+}
